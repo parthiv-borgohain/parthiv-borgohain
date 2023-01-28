@@ -9,9 +9,7 @@ I am an aspiring Data Scientist with a proven track record of delivering actiona
        - Strong understanding of Machine Learning and Statistical Modelling Techniques   
        - Experience with Data Visualization, ETL and Wrangling   
        - Extensive consulting experience of successfully delivering actionable insights and driving business growth for clients in various domains, from government to            sales and marketing to supply chain and logistics based on data
-       
        - Experience in Product and Web Analytics
-
   
 - 🔭 I’m currently working on Data Science and Analytics projects. Feel free to persue through my portfolio on GitHub
 - 🌱 I am in the final semester of the MS in Business Analytics program at UT Austin. I’m currently learning Deep Learning, Optimization, Unsupervised Learning, Social Media Analytics and Demand/Pricing Analytics
