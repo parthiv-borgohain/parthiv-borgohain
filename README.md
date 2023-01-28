@@ -11,7 +11,7 @@ I am an aspiring Data Scientist with a proven track record of delivering actiona
        - Experience in Web and Product Analytics </br>
        
   
-- 🔭 I’m currently working on Data Science and Machine Learning projects. Feel free to peruse my portfolio on GitHub
+- 🔭 I’m currently working on my Data Science Capstone Project with Microsoft. Feel free to peruse my other projects and portfolio on GitHub
 - 🌱 I am in the final semester of the MS in Business Analytics program at UT Austin. I’m currently learning Deep Learning, Optimization, Unsupervised Learning, Social Media Analytics and Demand/Pricing Analytics in my Spring Semester
 - 😄 Pronouns: He/Him
 - 👯 I’m actively seeking full-time roles in Data Science and Analytics
