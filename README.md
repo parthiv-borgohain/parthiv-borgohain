@@ -2,7 +2,7 @@
 Welcome to my GitHub Profile!
 <h3> 👨🏻‍💻 About Me </h3>
 
-I am an aspiring Data Scientist with a proven track record of delivering actionable insights and driving business growth for clients in various domains. With a passion for using data to drive decision-making and solve real-world problems, I have nearly 4 years of industry experience in Analytics and Data Science.
+I am an aspiring Data Scientist with a proven track record of delivering actionable insights and driving business growth for businesses in various domains. With a passion for using data to drive decision-making and solve real-world problems, I have nearly 4 years of industry experience in Analytics and Data Science.
 - 💻 Skills :  
        - Proficient in Python and various frameworks within Python (Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib, SciPy, TensorFlow, Keras, PyTorch, NLTK, spaCy              etc.)  
        - Proficient in writing complicated SQL queries.
