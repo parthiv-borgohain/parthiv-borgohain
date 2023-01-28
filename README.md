@@ -6,7 +6,8 @@ I am an aspiring Data Scientist with a proven track record of delivering actiona
 - 💻 Skills :  
        - Skilled in Python and various statistical and scientific frameworks within Python (Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib, SciPy, TensorFlow, Keras,            PyTorch, NLTK, spaCy etc.)  
        - Skilled in SAS, SQL, PowerBI and other various other Analytical tools and frameworks
-       - 
+       
+       
        - Proficient in Machine Learning, Predictive and Statistical Modeling, Data Visualization, and Data Wrangling.  
        - Extensive consulting experience of successfully delivering actionable insights and driving business growth for clients in various domains, from government to            sales and marketing to supply chain and logistics based on data
        
