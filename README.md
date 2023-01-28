@@ -13,10 +13,9 @@ I am an aspiring Data Scientist with a proven track record of delivering actiona
 
   
 - 🔭 I’m currently working on Data Science and Analytics projects. Feel free to persue through my portfolio on GitHub
-- 🌱 In my final semester at UT Austin, I’m currently learning Deep Learning, Optimization, Unsupervised Learning, Social Media Analytics and Demand/Pricing Analytics
-- 👯 I’m actively seeking full-time roles in Data Science and Analytics
-- 💬 Ask me about machine learning models
+- 🌱 I am in the final semester of the MS in Business Analytics program at UT Austin. I’m currently learning Deep Learning, Optimization, Unsupervised Learning, Social Media Analytics and Demand/Pricing Analytics
 - 😄 Pronouns: He/Him
+- 👯 I’m actively seeking full-time roles in Data Science and Analytics
 - 📫 How to reach me: 
 <p align="center">  
 &nbsp; <a href="https://www.linkedin.com/in/parthiv-borgohain/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
