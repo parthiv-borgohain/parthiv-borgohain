@@ -9,6 +9,7 @@ I am an aspiring Data Scientist with a proven track record of delivering actiona
        - Strong understanding of Machine Learning and Statistical Modelling Techniques   
        - Experience with Data Visualization, ETL and Wrangling   
        - Extensive consulting experience of successfully delivering actionable insights and driving business growth for clients in various domains, from government to            sales and marketing to supply chain and logistics based on data
+       
        - Experience in Product and Web Analytics
 
   
