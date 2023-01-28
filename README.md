@@ -4,13 +4,14 @@ Welcome to my GitHub Profile!
 
 I am an aspiring Data Scientist with a proven track record of delivering actionable insights and driving business growth for organizations in various industries. With a passion for using data to drive decision-making and solve real-world problems, I have nearly 4 years of industry experience in Analytics and Data Science.
 - 💻 Skills :  
-       - Skilled in Python and various statistical and scientific frameworks within Python (Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib, SciPy, TensorFlow, Keras, PyTorch, NLTK, spaCy              etc.)  
+       - Skilled in Python and various statistical and scientific frameworks within Python (Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib, SciPy, TensorFlow, Keras,            PyTorch, NLTK, spaCy etc.)  
        - Skilled in SAS, SQL, PowerBI and other various other Analytical tools and frameworks
+       - 
        - Proficient in Machine Learning, Predictive and Statistical Modeling, Data Visualization, and Data Wrangling.  
        - Extensive consulting experience of successfully delivering actionable insights and driving business growth for clients in various domains, from government to            sales and marketing to supply chain and logistics based on data
        
   
-- 🔭 I’m currently working on Data Science and Analytics projects. Feel free to persue through my portfolio on GitHub
+- 🔭 I’m currently working on Data Science and Analytics projects. Feel free to peruse my portfolio on GitHub
 - 🌱 I am in the final semester of the MS in Business Analytics program at UT Austin. I’m currently learning Deep Learning, Optimization, Unsupervised Learning, Social Media Analytics and Demand/Pricing Analytics in my Spring Semester
 - 😄 Pronouns: He/Him
 - 👯 I’m actively seeking full-time roles in Data Science and Analytics
