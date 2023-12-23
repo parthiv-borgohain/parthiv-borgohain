@@ -11,7 +11,7 @@ I'm a Data Scientist with a rich blend of industry experience and academic prowe
        - Experience in Product Analytics </br>
        
   
-- 🔭 I recently finished working as a Data Scientist with TriNet. Prior to that, I got the chacne to work on my Data Science Capstone project with Microsoft. Feel free to peruse my other projects and portfolio on GitHub
+- 🔭 I recently finished working as a Data Scientist with TriNet. Prior to that, I got the chance to work on my Data Science Capstone project with Microsoft. Feel free to peruse my other projects and portfolio on GitHub
 - 🌱 I have recently graduated from the MS in Business Analytics program at UT Austin. 
 - 😄 Pronouns: He/Him
 - 👯 I’m actively seeking full-time roles in Data Science and Analytics where I can contribute to innovative projects and drive meaningful insights.
